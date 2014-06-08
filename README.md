@@ -1,2 +1,1 @@
-table-mysql-php-ajax
-====================
+Table using MySQL/Apache/PHP/JavaScript/JSON/AJAX/Bootstrap
